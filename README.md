@@ -3,13 +3,13 @@
 I'm a backend-focused developer currently working on several projects:
 
 - **Gains Garage Backend**  
-  RESTful APIs built with [your tech stack, e.g., Node.js, Express, PostgreSQL]. Handles business logic and data management for Gains Garage platform.
+  RESTful APIs built with fastapi, NeonPG. Handles business logic and data management for Gains Garage platform.It is the SaaS platform the integratef with the Genai feautures.
 
 - **Alliance Backend**  
-  Robust backend services using [tech stack] powering Alliance's platform for [describe functionality, e.g., user management, data integration, etc.].
+  Robust backend services using Python Fastapi MongoDB powering Alliance's platform for Automated Agent calling feature to the targeted lead based on Australia for the property selling, buying and renting.It also include the stripe payment integration for the payment, Elevenlabns integrations for the voice and Twilio for the telephony.
 
 - **RJ Brown Backend**  
-  Custom backend system for RJ Brown, including [features or stack, e.g., authentication, data processing, third-party integrations, etc.].
+  Custom backend system for RJ Brown, including property  and land selling, renting for the customers based in Ausralia. The techstacks  include Fastapi, NeonPG with the  interative dashbaord features.
 
 ### Dockerization Process
 
@@ -19,8 +19,7 @@ I utilize Docker to containerize applications for consistency and portability ac
 2. Managing service dependencies with `docker-compose` for multi-container setups.
 3. Using `.env` files for secure/environment-specific configuration.
 4. Building and running containers locally and for production deployment.
-5. Automating builds and pushes to container registries as part of CI/CD when needed.
-
+   
 Docker ensures my backends are easy to deploy, scale, and maintain.
 
 ---
