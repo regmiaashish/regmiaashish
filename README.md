@@ -1,5 +1,30 @@
-# 💫 About Me:
-I'm an IT student at Nepal Commerce Campus with a passion for Python and Django/Fastapi development. I am currently architecting a multi-tenant SaaS calling agent tailored for the Dubai real estate market. Developed with FastAPI and Python, the platform automates the end-to-end sales funnel—from lead creation to call triggering—by orchestrating ElevenLabs for conversational AI and Twilio for global telephony. A key focus of the project is the post-call intelligence layer; I have integrated webhooks to process real-time call data for sentiment detection and interest scoring, turning voice interactions into actionable business insights. My work leverages Gemini 2.0 Flash for natural dialogue and features a highly optimized backend designed for low-latency, scalable real estate operations.
+## About Me
+
+I'm a backend-focused developer currently working on several projects:
+
+- **Gains Garage Backend**  
+  RESTful APIs built with [your tech stack, e.g., Node.js, Express, PostgreSQL]. Handles business logic and data management for Gains Garage platform.
+
+- **Alliance Backend**  
+  Robust backend services using [tech stack] powering Alliance's platform for [describe functionality, e.g., user management, data integration, etc.].
+
+- **RJ Brown Backend**  
+  Custom backend system for RJ Brown, including [features or stack, e.g., authentication, data processing, third-party integrations, etc.].
+
+### Dockerization Process
+
+I utilize Docker to containerize applications for consistency and portability across environments. My typical Docker workflow includes:
+
+1. Writing a minimal `Dockerfile` for the backend service.
+2. Managing service dependencies with `docker-compose` for multi-container setups.
+3. Using `.env` files for secure/environment-specific configuration.
+4. Building and running containers locally and for production deployment.
+5. Automating builds and pushes to container registries as part of CI/CD when needed.
+
+Docker ensures my backends are easy to deploy, scale, and maintain.
+
+---
+Feel free to explore my repositories to see more about these projects and my approach to backend architecture and deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish-regmi-228868309) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:regmiaaashish660@gmail.com) 
