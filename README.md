@@ -3,7 +3,7 @@
 I'm a backend-focused developer currently working on several projects:
 
 - **Gains Garage Backend**  
-  RESTful APIs built with fastapi, NeonPG. Handles business logic and data management for Gains Garage platform.It is the SaaS platform the integratef with the Genai feautures.
+  RESTful APIs built with fastapi, NeonPG. Handles business logic and data management for Gains Garage platform.It is the SaaS platform integrated with the Genai feautures  for automated session booking with trainers, automated availability setting for trainers and many more features.
 
 - **Alliance Backend**  
   Robust backend services using Python Fastapi MongoDB powering Alliance's platform for Automated Agent calling feature to the targeted lead based on Australia for the property selling, buying and renting.It also include the stripe payment integration for the payment, Elevenlabns integrations for the voice and Twilio for the telephony.
